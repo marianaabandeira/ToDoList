@@ -65,6 +65,6 @@ O projeto está publicado no **GitHub Pages** e pode ser acessado em:
 
 ---
 
-📌 Projeto desenvolvido como parte do meu portfólio técnico, com foco no reforço da lógica de programação, manipulação do DOM e fundamentos do desenvolvimento Frontend, utilizando HTML, CSS e JavaScript de forma prática e funcional !
+📌 Projeto desenvolvido como parte do meu portfólio técnico, com foco no reforço da lógica de programação, manipulação do DOM e fundamentos do desenvolvimento Frontend, utilizando HTML, CSS e JavaScript de forma prática e funcional.
 
 
